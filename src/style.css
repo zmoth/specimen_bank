@@ -1,0 +1,9 @@
+body {
+  margin: 40px 0;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-seri;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: #BCAAA4;
+  -webkit-font-smoothing: antialiased;
+}
+
